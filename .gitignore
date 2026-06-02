@@ -1,0 +1,22 @@
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Compiled binaries
+*.exe
+*.o
+*.out
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Agent / Environment specific
+.gemini/
+.claude/
+.agents/
