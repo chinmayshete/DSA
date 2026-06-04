@@ -52,7 +52,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 ---
 
-## Constraints:
+## Constraints
 
 - `1 <= nums.length <= 3 * 10^4`
 - `-100 <= nums[i] <= 100`
@@ -101,7 +101,7 @@ numbers = [2,7,11,15]
 target = 9
 ```
 
-| i | j | numbers[i] | numbers[j] | sum | Action |
+| i | j | numbers\[i] | numbers\[j] | sum | Action |
 | --- | --- | --- | --- | --- | --- |
 | 0 | 3 | 2 | 15 | 17 | j-- |
 | 0 | 2 | 2 | 11 | 13 | j-- |
