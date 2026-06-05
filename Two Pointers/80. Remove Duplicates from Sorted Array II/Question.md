@@ -94,12 +94,12 @@ Finally, return `start`.
 
 Input: `nums = [1,1,1,2,2,3]`
 
-| start | end | nums[start-2] | nums[end] | Action | 
+| start | end | `nums[start-2]` | `nums[end]` | Action |
 | --- | --- | --- | --- | --- |
 | 2 | 2 | 1 | 1 | No change |
-| 2 | 3 | 1 | 2 | nums[2] = 2, start++ |
+| 2 | 3 | 1 | 2 | `nums[2] = 2`, `start++` |
 | 3 | 4 | 1 | 2 | No change |
-| 3 | 5 | 2 | 3 | nums[3] = 3, start++ |
+| 3 | 5 | 2 | 3 | `nums[3] = 3`, `start++` |
 
 Output:
 

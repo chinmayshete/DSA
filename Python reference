@@ -1,0 +1,32 @@
+#For coding interviews (LeetCode, DSA), the methods you'll use most often are:
+
+append()
+pop()
+sort()
+reverse()
+index()
+count()
+
+# and the functions:
+
+len()
+sum()
+max()
+min()
+enumerate()
+range()
+
+# Mastering these covers the majority of list operations used in algorithm problems.
+
+
+#swap in python
+def swap_n(self, arr, i, j):
+    arr[i], arr[j] = arr[j], arr[i]
+
+#to check The list is empty
+a = []
+if not a:
+    print("The list is empty")
+else:
+    print("The list is not empty")
+
