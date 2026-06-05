@@ -2,19 +2,20 @@
 
 Welcome to the **DSA Mastery Hub**! This repository is a structured space dedicated to learning, practicing, and mastering Data Structures and Algorithms (DSA) through **pattern-based problem-solving**.
 
-I am systematically working through the curated list of **164 problems** from the [DSA patterns Cheat Sheet - Sheet1.pdf](./DSA%20patterns%20Cheat%20Sheet%20-%20Sheet1.pdf), implementing optimized solutions in both **C++** and **Python**.
+I am systematically working through the curated list of **164 problems** from the [DSA Pattern Cheat Sheet.pdf](./DSA%20Pattern%20Cheat%20Sheet.pdf), implementing optimized solutions in both **C++** and **Python**.
 
 ---
 
 ## 📊 Progress Tracker
 
-*   **Total Progress:** 🟢 `2 / 164` Problems Solved
+*   **Total Progress:** 🟢 `5 / 165` Problems Solved
 *   **Target:** Complete all 14 patterns to build a robust algorithmic intuition.
 
 ### Quick Stats
+
 | Pattern | Solved / Total | Status |
 | :--- | :---: | :---: |
-| [1. Two Pointers](#-1-two-pointers-212) | `2 / 12` | 📈 In Progress |
+| [1. Two Pointers](#-1-two-pointers-513) | `5 / 13` | 📈 In Progress |
 | [2. Fast & Slow Pointers](#-2-fast--slow-pointers-08) | `0 / 8` | ⏳ Pending |
 | [3. Sliding Window](#-3-sliding-window-012) | `0 / 12` | ⏳ Pending |
 | [4. Kadane's Algorithm](#-4-kadanes-algorithm-06) | `0 / 6` | ⏳ Pending |
@@ -37,13 +38,14 @@ I am systematically working through the curated list of **164 problems** from th
 DSA/
 ├── .gitignore
 ├── README.md
-├── DSA patterns Cheat Sheet - Sheet1.pdf   # Reference PDF list of patterns
-├── DSA patterns Cheat Sheet.xlsx           # Reference Excel sheet
-└── [Pattern Name]/                         # Problems grouped by pattern
+├── DSA Pattern Cheat Sheet.pdf              # Reference PDF list of patterns
+├── DSA Pattern Cheat Sheet.xlsx             # Reference Excel sheet
+├── Python reference                         # Quick-reference Python snippets for DSA
+└── [Pattern Name]/                          # Problems grouped by pattern
     └── [Problem Name]/
-        ├── Question.md                     # Problem explanation and complexity analysis
-        ├── CPP_Solution.cpp                # C++ source code
-        └── Python_Solution.py              # Python source code
+        ├── Question.md                      # Problem explanation and complexity analysis
+        ├── CPP_Solution.cpp                 # C++ source code
+        └── Python_Solution.py               # Python source code
 ```
 
 ---
@@ -52,7 +54,8 @@ DSA/
 
 Click on any pattern to expand and view the problems, difficulty levels, external links, and local solution files.
 
-### 🔄 1. Two Pointers (`2 / 12` Solved)
+### 🔄 1. Two Pointers (`5 / 13` Solved)
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
@@ -60,8 +63,9 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 | :---: | :--- | :---: | :---: | :---: |
 | ✅ | Pair with Target Sum | Easy | [LeetCode 167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/CPP_Solution.cpp) / [Python](./Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Python_Solution.py) |
 | ✅ | Rearrange 0 and 1 | Easy | [GFG](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | [C++](./Two%20Pointers/GFG%20Question%20-%20Segregate%200s%20and%201s/CPP_Solution.cpp) / [Python](./Two%20Pointers/GFG%20Question%20-%20Segregate%200s%20and%201s/Python_Solution.py) |
-| ⏳ | Remove Duplicates | Easy | [LeetCode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | *Pending* |
-| ⏳ | Squaring a Sorted Array | Easy | [LeetCode 977](https://leetcode.com/problems/squares-of-a-sorted-array/) | *Pending* |
+| ✅ | Remove Duplicates | Easy | [LeetCode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Two%20Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array/CPP_Solution.cpp) / [Python](./Two%20Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array/Python_Solution.py) |
+| ✅ | Squaring a Sorted Array | Easy | [LeetCode 977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./Two%20Pointers/977.%20Squares%20of%20a%20Sorted%20Array/CPP_Solution_1.cpp) / [Python](./Two%20Pointers/977.%20Squares%20of%20a%20Sorted%20Array/Python_Solution.py) |
+| ✅ | Remove Duplicates II *(Bonus)* | Medium | [LeetCode 80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./Two%20Pointers/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/CPP_Solution.cpp) / [Python](./Two%20Pointers/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/Python_Solution.py) |
 | ⏳ | Triplet Sum to Zero | Medium | [LeetCode 15](https://leetcode.com/problems/3sum/) | *Pending* |
 | ⏳ | Triplet Sum Close to Target | Medium | [LeetCode 16](https://leetcode.com/problems/3sum-closest/) | *Pending* |
 | ⏳ | Triplets with Smaller Sum | Medium | [GFG](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | *Pending* |
