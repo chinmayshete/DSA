@@ -8,27 +8,27 @@ I am systematically working through the curated list of **164 problems** from th
 
 ## 📊 Progress Tracker
 
-*   **Total Progress:** 🟢 `5 / 165` Problems Solved
-*   **Target:** Complete all 14 patterns to build a robust algorithmic intuition.
+* **Total Progress:** 🟢 `5 / 165` Problems Solved
+* **Target:** Complete all 14 patterns to build a robust algorithmic intuition.
 
 ### Quick Stats
 
 | Pattern | Solved / Total | Status |
 | :--- | :---: | :---: |
-| [1. Two Pointers](#-1-two-pointers-513) | `5 / 13` | 📈 In Progress |
-| [2. Fast & Slow Pointers](#-2-fast--slow-pointers-08) | `0 / 8` | ⏳ Pending |
-| [3. Sliding Window](#-3-sliding-window-012) | `0 / 12` | ⏳ Pending |
-| [4. Kadane's Algorithm](#-4-kadanes-algorithm-06) | `0 / 6` | ⏳ Pending |
-| [5. Prefix Sum](#-5-prefix-sum-06) | `0 / 6` | ⏳ Pending |
-| [6. Merge Intervals](#-6-merge-intervals-07) | `0 / 7` | ⏳ Pending |
-| [7. In-place Reversal of LinkedList](#-7-in-place-reversal-of-linkedlist-06) | `0 / 6` | ⏳ Pending |
-| [8. Stack](#-8-stack-09) | `0 / 9` | ⏳ Pending |
-| [9. Hash Maps](#-9-hash-maps-04) | `0 / 4` | ⏳ Pending |
-| [10. Binary Search](#-10-binary-search-022) | `0 / 22` | ⏳ Pending |
-| [11. Heap Pattern](#-11-heap-pattern-017) | `0 / 17` | ⏳ Pending |
-| [12. Recursion & Backtracking](#-12-recursion--backtracking-010) | `0 / 10` | ⏳ Pending |
-| [13. Tree Pattern](#-13-tree-pattern-031) | `0 / 31` | ⏳ Pending |
-| [14. Graphs](#-14-graphs-014) | `0 / 14` | ⏳ Pending |
+| [1. Two Pointers](#-1-two-pointers) | `5 / 13` | 📈 In Progress |
+| [2. Fast & Slow Pointers](#-2-fast--slow-pointers) | `0 / 8` | ⏳ Pending |
+| [3. Sliding Window](#-3-sliding-window) | `0 / 12` | ⏳ Pending |
+| [4. Kadane's Algorithm](#-4-kadanes-algorithm) | `0 / 6` | ⏳ Pending |
+| [5. Prefix Sum](#-5-prefix-sum) | `0 / 6` | ⏳ Pending |
+| [6. Merge Intervals](#-6-merge-intervals) | `0 / 7` | ⏳ Pending |
+| [7. In-place Reversal of LinkedList](#-7-in-place-reversal-of-linkedlist) | `0 / 6` | ⏳ Pending |
+| [8. Stack](#-8-stack) | `0 / 9` | ⏳ Pending |
+| [9. Hash Maps](#-9-hash-maps) | `0 / 4` | ⏳ Pending |
+| [10. Binary Search](#-10-binary-search) | `0 / 22` | ⏳ Pending |
+| [11. Heap Pattern](#-11-heap-pattern) | `0 / 17` | ⏳ Pending |
+| [12. Recursion & Backtracking](#-12-recursion--backtracking) | `0 / 10` | ⏳ Pending |
+| [13. Tree Pattern](#-13-tree-pattern) | `0 / 31` | ⏳ Pending |
+| [14. Graphs](#-14-graphs) | `0 / 14` | ⏳ Pending |
 
 ---
 
@@ -54,7 +54,9 @@ DSA/
 
 Click on any pattern to expand and view the problems, difficulty levels, external links, and local solution files.
 
-### 🔄 1. Two Pointers (`5 / 13` Solved)
+### 🔄 1. Two Pointers
+
+**Progress:** `5 / 13` Solved
 
 <details>
 <summary>Expand Problems Checklist</summary>
@@ -79,7 +81,10 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ---
 
-### 🏃 2. Fast & Slow Pointers (`0 / 8` Solved)
+### 🏃 2. Fast & Slow Pointers
+
+**Progress:** `0 / 8` Solved
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
@@ -98,7 +103,10 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ---
 
-### 🪟 3. Sliding Window (`0 / 12` Solved)
+### 🪟 3. Sliding Window
+
+**Progress:** `0 / 12` Solved
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
@@ -121,7 +129,10 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ---
 
-### 🪵 4. Kadane's Algorithm (`0 / 6` Solved)
+### 🪵 4. Kadane's Algorithm
+
+**Progress:** `0 / 6` Solved
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
@@ -138,7 +149,10 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ---
 
-### ➕ 5. Prefix Sum (`0 / 6` Solved)
+### ➕ 5. Prefix Sum
+
+**Progress:** `0 / 6` Solved
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
@@ -155,7 +169,10 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ---
 
-### 📎 6. Merge Intervals (`0 / 7` Solved)
+### 📎 6. Merge Intervals
+
+**Progress:** `0 / 7` Solved
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
@@ -173,7 +190,10 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ---
 
-### 🔄 7. In-place Reversal of LinkedList (`0 / 6` Solved)
+### 🔄 7. In-place Reversal of LinkedList
+
+**Progress:** `0 / 6` Solved
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
@@ -190,7 +210,10 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ---
 
-### 🥞 8. Stack (`0 / 9` Solved)
+### 🥞 8. Stack
+
+**Progress:** `0 / 9` Solved
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
@@ -210,7 +233,10 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ---
 
-### 🗺️ 9. Hash Maps (`0 / 4` Solved)
+### 🗺 9. Hash Maps
+
+**Progress:** `0 / 4` Solved
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
@@ -225,7 +251,10 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ---
 
-### 🔍 10. Binary Search (`0 / 22` Solved)
+### 🔍 10. Binary Search
+
+**Progress:** `0 / 22` Solved
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
@@ -259,7 +288,10 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ---
 
-### 🏔️ 11. Heap Pattern (`0 / 17` Solved)
+### 🏔 11. Heap Pattern
+
+**Progress:** `0 / 17` Solved
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
@@ -287,7 +319,10 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ---
 
-### 🧬 12. Recursion & Backtracking (`0 / 10` Solved)
+### 🧬 12. Recursion & Backtracking
+
+**Progress:** `0 / 10` Solved
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
@@ -308,11 +343,15 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ---
 
-### 🌲 13. Tree Pattern (`0 / 31` Solved)
+### 🌲 13. Tree Pattern
+
+**Progress:** `0 / 31` Solved
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
 #### A. Traversal (`0 / 6` Solved)
+
 | Status | Problem Name | Difficulty | Platform Link | Local Solution Files |
 | :---: | :--- | :---: | :---: | :---: |
 | ⏳ | Binary Tree Inorder Traversal | Easy | [LeetCode 94](https://leetcode.com/problems/binary-tree-inorder-traversal/) | *Pending* |
@@ -323,6 +362,7 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 | ⏳ | Binary Tree Level Order Traversal II | Medium | [LeetCode 107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | *Pending* |
 
 #### B. Mirror & Symmetry (`0 / 5` Solved)
+
 | Status | Problem Name | Difficulty | Platform Link | Local Solution Files |
 | :---: | :--- | :---: | :---: | :---: |
 | ⏳ | Invert Binary Tree | Easy | [LeetCode 226](https://leetcode.com/problems/invert-binary-tree/) | *Pending* |
@@ -332,6 +372,7 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 | ⏳ | Flip Equivalent Binary Trees | Medium | [LeetCode 951](https://leetcode.com/problems/flip-equivalent-binary-trees/) | *Pending* |
 
 #### C. Search (`0 / 6` Solved)
+
 | Status | Problem Name | Difficulty | Platform Link | Local Solution Files |
 | :---: | :--- | :---: | :---: | :---: |
 | ⏳ | Lowest Common Ancestor of a Binary Tree | Medium | [LeetCode 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | *Pending* |
@@ -342,6 +383,7 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 | ⏳ | Kth Smallest Element in a BST | Medium | [LeetCode 230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | *Pending* |
 
 #### D. Validation (`0 / 7` Solved)
+
 | Status | Problem Name | Difficulty | Platform Link | Local Solution Files |
 | :---: | :--- | :---: | :---: | :---: |
 | ⏳ | Minimum Depth of Binary Tree | Easy | [LeetCode 111](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | *Pending* |
@@ -353,6 +395,7 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 | ⏳ | Recover Binary Search Tree | Medium | [LeetCode 99](https://leetcode.com/problems/recover-binary-search-tree/) | *Pending* |
 
 #### E. Path Sum (`0 / 4` Solved)
+
 | Status | Problem Name | Difficulty | Platform Link | Local Solution Files |
 | :---: | :--- | :---: | :---: | :---: |
 | ⏳ | Path Sum | Easy | [LeetCode 112](https://leetcode.com/problems/path-sum/) | *Pending* |
@@ -361,6 +404,7 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 | ⏳ | Binary Tree Maximum Path Sum | Hard | [LeetCode 124](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | *Pending* |
 
 #### F. Construction (`0 / 3` Solved)
+
 | Status | Problem Name | Difficulty | Platform Link | Local Solution Files |
 | :---: | :--- | :---: | :---: | :---: |
 | ⏳ | Construct Tree from Preorder and Inorder Traversal | Medium | [LeetCode 105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | *Pending* |
@@ -371,7 +415,10 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ---
 
-### 🕸️ 14. Graphs (`0 / 14` Solved)
+### 🕸 14. Graphs
+
+**Progress:** `0 / 14` Solved
+
 <details>
 <summary>Expand Problems Checklist</summary>
 
@@ -400,6 +447,7 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 ## 🛠️ How to Compile / Run Solutions
 
 ### C++ Solutions
+
 ```bash
 # Navigate to the problem folder
 cd "Two Pointers/167. Two Sum II - Input Array Is Sorted"
@@ -412,6 +460,7 @@ g++ -O3 CPP_Solution.cpp -o solution
 ```
 
 ### Python Solutions
+
 ```bash
 # Run using Python 3
 python Python_Solution.py
