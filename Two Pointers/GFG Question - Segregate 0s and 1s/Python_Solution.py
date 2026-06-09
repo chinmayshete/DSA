@@ -4,6 +4,7 @@ class Solution:
         start=0
         end=size-1
         ans=[]
+
         while(start<end):
             sum=numbers[start]+numbers[end]
             if (target == sum):
