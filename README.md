@@ -56,7 +56,7 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ### 🔄 1. Two Pointers
 
-**Progress:** `5 / 13` Solved
+**Progress:** `7 / 13` Solved
 
 <details>
 <summary>Expand Problems Checklist</summary>
@@ -68,8 +68,8 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 | ✅ | Remove Duplicates | Easy | [LeetCode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Two%20Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array/CPP_Solution.cpp) / [Python](./Two%20Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array/Python_Solution.py) |
 | ✅ | Squaring a Sorted Array | Easy | [LeetCode 977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./Two%20Pointers/977.%20Squares%20of%20a%20Sorted%20Array/CPP_Solution_1.cpp) / [Python](./Two%20Pointers/977.%20Squares%20of%20a%20Sorted%20Array/Python_Solution.py) |
 | ✅ | Remove Duplicates II *(Bonus)* | Medium | [LeetCode 80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./Two%20Pointers/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/CPP_Solution.cpp) / [Python](./Two%20Pointers/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/Python_Solution.py) |
-| ⏳ | Triplet Sum to Zero | Medium | [LeetCode 15](https://leetcode.com/problems/3sum/) | *Pending* |
-| ⏳ | Triplet Sum Close to Target | Medium | [LeetCode 16](https://leetcode.com/problems/3sum-closest/) | *Pending* |
+| ✅ | Triplet Sum to Zero | Medium | [LeetCode 15](https://leetcode.com/problems/3sum/) | *Pending* |
+| ✅ | Triplet Sum Close to Target | Medium | [LeetCode 16](https://leetcode.com/problems/3sum-closest/) | *Pending* |
 | ⏳ | Triplets with Smaller Sum | Medium | [GFG](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | *Pending* |
 | ⏳ | Subarrays with Product Less than a Target | Medium | [LeetCode 713](https://leetcode.com/problems/subarray-product-less-than-k/) | *Pending* |
 | ⏳ | Dutch National Flag Problem | Medium | [LeetCode 75](https://leetcode.com/problems/sort-colors/) | *Pending* |
