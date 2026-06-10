@@ -62,7 +62,7 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 <summary>Expand Problems Checklist</summary>
 
 | Status | Problem Name | Difficulty | Platform Link | Solutions |
-| :---: | :--- | :---: | :----: | :---: |
+| :---: | :--- | :---: | :-----: | :---: |
 | ✅ | Pair with Target Sum | Easy | [LeetCode 167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/CPP_Solution.cpp) / [Python](./Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Python_Solution.py) |
 | ✅ | Rearrange 0 and 1 | Easy | [GFG](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | [C++](./Two%20Pointers/GFG%20Question%20-%20Segregate%200s%20and%201s/CPP_Solution.cpp) / [Python](./Two%20Pointers/GFG%20Question%20-%20Segregate%200s%20and%201s/Python_Solution.py) |
 | ✅ | Remove Duplicates | Easy | [LeetCode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Two%20Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array/CPP_Solution.cpp) / [Python](./Two%20Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array/Python_Solution.py) |
