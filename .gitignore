@@ -20,3 +20,7 @@ Thumbs.db
 .gemini/
 .claude/
 .agents/
+.env
+
+# Markdown files
+.markdownlint.json
