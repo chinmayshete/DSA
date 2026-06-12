@@ -1,18 +1,17 @@
 class Solution:
-    def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        size=len(numbers)
-        start=0
-        end=size-1
-        ans=[]
-
-        while(start<end):
-            sum=numbers[start]+numbers[end]
-            if (target == sum):
-                ans.append(start+1)
-                ans.append(end+1)
-                return ans
-            elif (sum>target):
-                end=end-1
+    def segregate0and1(self, arr):
+        # code here
+        n = len(arr)
+        left=0
+        right=n-1
+        
+        while(left<right):
+            if(arr[left]==0):
+                left+=1
+            
+            elif(arr[right]==1):
+                right-=1
+                
             else:
-                start=start+1
-        return ans
+                #swap the 0 ans 1
+                arr[left],arr[right]=arr[right],arr[left]

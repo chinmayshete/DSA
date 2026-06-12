@@ -1,5 +1,5 @@
 class Solution {
-  public:
+public:
     void swap_n(int &a,int &b){
         a=a^b;
         b=a^b;
