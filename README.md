@@ -8,14 +8,14 @@ I am systematically working through the curated list of **164 problems** from th
 
 ## 📊 Progress Tracker
 
-* **Total Progress:** 🟢 `5 / 165` Problems Solved
+* **Total Progress:** 🟢 `9 / 165` Problems Solved
 * **Target:** Complete all 14 patterns to build a robust algorithmic intuition.
 
 ### Quick Stats
 
 | Pattern | Solved / Total | Status |
 | :--- | :---: | :---: |
-| [1. Two Pointers](#-1-two-pointers) | `5 / 13` | 📈 In Progress |
+| [1. Two Pointers](#-1-two-pointers) | `9 / 13` | 📈 In Progress |
 | [2. Fast & Slow Pointers](#-2-fast--slow-pointers) | `0 / 8` | ⏳ Pending |
 | [3. Sliding Window](#-3-sliding-window) | `0 / 12` | ⏳ Pending |
 | [4. Kadane's Algorithm](#-4-kadanes-algorithm) | `0 / 6` | ⏳ Pending |
@@ -56,7 +56,7 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ### 🔄 1. Two Pointers
 
-**Progress:** `7 / 13` Solved
+**Progress:** `9 / 13` Solved
 
 <details>
 <summary>Expand Problems Checklist</summary>
@@ -70,8 +70,8 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 | ✅ | Remove Duplicates II *(Bonus)* | Medium | [LeetCode&nbsp;80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./Two%20Pointers/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/CPP_Solution.cpp) / [Python](./Two%20Pointers/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/Python_Solution.py) |
 | ✅ | Triplet Sum to Zero | Medium | [LeetCode&nbsp;15](https://leetcode.com/problems/3sum/) | [C++](./Two%20Pointers/15.%203Sum/CPP_Solution.cpp) / [Python](./Two%20Pointers/15.%203Sum/Python_Solution.py) |
 | ✅ | Triplet Sum Close to Target | Medium | [LeetCode&nbsp;16](https://leetcode.com/problems/3sum-closest/) | [C++](./Two%20Pointers/16.%203Sum%20Closest/CPP_Solution.cpp) / [Python](./Two%20Pointers/16.%203Sum%20Closest/Python_Solution.py) |
-| ⏳ | Triplets with Smaller Sum | Medium | [GFG](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | *Pending* |
-| ⏳ | Subarrays with Product Less than a Target | Medium | [LeetCode&nbsp;713](https://leetcode.com/problems/subarray-product-less-than-k/) | *Pending* |
+| ✅ | Triplets with Smaller Sum | Medium | [GFG](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | [C++](./Two%20Pointers/GFG%20Question%20-%20Triplets%20with%20Smaller%20Sum/CPP_Solution.cpp) / [Python](./Two%20Pointers/GFG%20Question%20-%20Triplets%20with%20Smaller%20Sum/Python_Solution.py) |
+| ✅ | Subarrays with Product Less than a Target | Medium | [LeetCode&nbsp;713](https://leetcode.com/problems/subarray-product-less-than-k/) | [Python](./Two%20Pointers/713.%20Subarray%20Product%20Less%20Than%20K/Python_Solution.py) |
 | ⏳ | Dutch National Flag Problem | Medium | [LeetCode&nbsp;75](https://leetcode.com/problems/sort-colors/) | *Pending* |
 | ⏳ | Quadruple Sum to Target | Medium | [LeetCode&nbsp;18](https://leetcode.com/problems/4sum/) | *Pending* |
 | ⏳ | Comparing Strings containing Backspaces | Medium | [LeetCode&nbsp;844](https://leetcode.com/problems/backspace-string-compare/) | *Pending* |
