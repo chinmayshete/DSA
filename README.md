@@ -8,14 +8,14 @@ I am systematically working through the curated list of **164 problems** from th
 
 ## 📊 Progress Tracker
 
-* **Total Progress:** 🟢 `9 / 165` Problems Solved
+* **Total Progress:** 🟢 `10 / 165` Problems Solved
 * **Target:** Complete all 14 patterns to build a robust algorithmic intuition.
 
 ### Quick Stats
 
 | Pattern | Solved / Total | Status |
 | :--- | :---: | :---: |
-| [1. Two Pointers](#-1-two-pointers) | `9 / 13` | 📈 In Progress |
+| [1. Two Pointers](#-1-two-pointers) | `10 / 13` | 📈 In Progress |
 | [2. Fast & Slow Pointers](#-2-fast--slow-pointers) | `0 / 8` | ⏳ Pending |
 | [3. Sliding Window](#-3-sliding-window) | `0 / 12` | ⏳ Pending |
 | [4. Kadane's Algorithm](#-4-kadanes-algorithm) | `0 / 6` | ⏳ Pending |
@@ -56,7 +56,7 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 
 ### 🔄 1. Two Pointers
 
-**Progress:** `9 / 13` Solved
+**Progress:** `10 / 13` Solved
 
 <details>
 <summary>Expand Problems Checklist</summary>
@@ -72,7 +72,7 @@ Click on any pattern to expand and view the problems, difficulty levels, externa
 | ✅ | Triplet Sum Close to Target | Medium | [LeetCode&nbsp;16](https://leetcode.com/problems/3sum-closest/) | [C++](./Two%20Pointers/16.%203Sum%20Closest/CPP_Solution.cpp) / [Python](./Two%20Pointers/16.%203Sum%20Closest/Python_Solution.py) |
 | ✅ | Triplets with Smaller Sum | Medium | [GFG](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | [C++](./Two%20Pointers/GFG%20Question%20-%20Triplets%20with%20Smaller%20Sum/CPP_Solution.cpp) / [Python](./Two%20Pointers/GFG%20Question%20-%20Triplets%20with%20Smaller%20Sum/Python_Solution.py) |
 | ✅ | Subarrays with Product Less than a Target | Medium | [LeetCode&nbsp;713](https://leetcode.com/problems/subarray-product-less-than-k/) | [Python](./Two%20Pointers/713.%20Subarray%20Product%20Less%20Than%20K/Python_Solution.py) |
-| ⏳ | Dutch National Flag Problem | Medium | [LeetCode&nbsp;75](https://leetcode.com/problems/sort-colors/) | *Pending* |
+| ✅ | Dutch National Flag Problem | Medium | [LeetCode&nbsp;75](https://leetcode.com/problems/sort-colors/) | [Python 1](./Two%20Pointers/75.%20Sort%20Colors/Python_Solution_1.py) / [Python 2](./Two%20Pointers/75.%20Sort%20Colors/Python_Solution_2.py) |
 | ⏳ | Quadruple Sum to Target | Medium | [LeetCode&nbsp;18](https://leetcode.com/problems/4sum/) | *Pending* |
 | ⏳ | Comparing Strings containing Backspaces | Medium | [LeetCode&nbsp;844](https://leetcode.com/problems/backspace-string-compare/) | *Pending* |
 | ⏳ | Minimum Window Sort | Medium | [LeetCode&nbsp;581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | *Pending* |

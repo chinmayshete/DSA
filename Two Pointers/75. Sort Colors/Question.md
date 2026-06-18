@@ -38,4 +38,6 @@ n == nums.length
 nums[i] is either 0, 1, or 2.
 ```
 
-Follow up: Could you come up with a one-pass algorithm using only constant extra space?
+## Follow up
+
+Could you come up with a **one-pass algorithm** using only **constant extra space**?
